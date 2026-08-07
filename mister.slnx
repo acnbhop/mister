@@ -13,13 +13,13 @@
   <Folder Name="/Targets/" />
   <Folder Name="/Targets/Game Targets/" />
   <Folder Name="/Targets/Mister Targets/">
-    <Project Path="src/mister/base/base.vcxproj" Id="c0207320-b82f-43f8-9314-adc385cb61d5" />
+    <Project Path="vs_projects/mister/base.vcxproj" Id="c0207320-b82f-43f8-9314-adc385cb61d5" />
   </Folder>
   <Folder Name="/Targets/Template Targets/">
-    <Project Path="src/templates/template_app/template_app.vcxproj" Id="24d95716-2cb9-4de2-941f-a8f400355a21" />
-    <Project Path="src/templates/template_static_library/template_static_library.vcxproj" Id="116a86bf-b773-47cd-9fab-a930dec911c9" />
+    <Project Path="vs_projects/templates/template_app.vcxproj" Id="24d95716-2cb9-4de2-941f-a8f400355a21" />
+    <Project Path="vs_projects/templates/template_static_library.vcxproj" Id="116a86bf-b773-47cd-9fab-a930dec911c9" />
   </Folder>
   <Folder Name="/Targets/Test Targets/">
-    <Project Path="src/testapp/testapp.vcxproj" Id="236ab8e5-f5d8-4aa7-b68c-69998153900e" />
+    <Project Path="vs_projects/testapp.vcxproj" Id="236ab8e5-f5d8-4aa7-b68c-69998153900e" />
   </Folder>
 </Solution>

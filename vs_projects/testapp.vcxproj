@@ -18,6 +18,13 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\testapp\main.cc" />
+    <ClCompile Include="..\src\testapp\something.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\testapp\something.hh" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -166,13 +173,6 @@
       <EnableSegmentHeap>true</EnableSegmentHeap>
     </Manifest>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="main.cc" />
-    <ClCompile Include="something.cc" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="something.hh" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -11,7 +11,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="temp.cc">
+    <ClCompile Include="..\..\src\mister\base\temp.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

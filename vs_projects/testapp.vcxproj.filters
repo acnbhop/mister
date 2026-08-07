@@ -11,15 +11,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cc">
+    <ClCompile Include="..\src\testapp\something.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="something.cc">
+    <ClCompile Include="..\src\testapp\main.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="something.hh">
+    <ClInclude Include="..\src\testapp\something.hh">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
