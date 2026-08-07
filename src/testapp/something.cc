@@ -9,7 +9,7 @@ namespace Mister::TestApp
 
 void some_function()
 {
-	std::println( "Hello from 'some_function' in 'Mister::TestApp'!" );
+    std::println( "Hello from 'some_function' in 'Mister::TestApp'!" );
 }
 
 } // namespace Mister::TestApp

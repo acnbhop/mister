@@ -3,7 +3,7 @@
 
 int main()
 {
-	Mister::TestApp::some_function();
+    Mister::TestApp::some_function();
 
-	return 0;
+    return 0;
 }
