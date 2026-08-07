@@ -1,0 +1,24 @@
+*
+!*/
+
+*.vscode/
+*.idea/
+
+# Git files
+!*.gitkeep
+!*.gitignore
+!*.gitattributes
+
+# Text files
+!*.txt
+!*.md
+
+# Visual Studio
+!*.sln
+!*.slnx
+!*.vcxproj
+!*.vcxproj.filters
+
+# Code files
+!*.cc
+!*.hh
