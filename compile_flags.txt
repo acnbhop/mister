@@ -1,0 +1,9 @@
+-std=c++23
+-xc++
+-I./src
+-D__DEBUG
+-include ./src/mister/base/forceinclude.hh
+-fno-exceptions
+-fno-rtti
+-ffast-math
+-march=native
