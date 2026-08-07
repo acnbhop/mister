@@ -6,5 +6,8 @@
   <ItemGroup>
     <ClInclude Include="..\..\src\mister\base\forceinclude.hh" />
     <ClInclude Include="..\..\src\mister\base\build.hh" />
+    <ClInclude Include="..\..\src\mister\base\compiler.hh" />
+    <ClInclude Include="..\..\src\mister\base\cpu.hh" />
+    <ClInclude Include="..\..\src\mister\base\platform.hh" />
   </ItemGroup>
 </Project>
