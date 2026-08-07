@@ -5,6 +5,10 @@
 *.vscode/
 *.idea/
 
+# Directories
+bin/
+temp/
+
 # Git files
 !*.gitkeep
 !*.gitignore
