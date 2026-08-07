@@ -1,1 +1,10 @@
-<Solution />
+<Solution>
+  <Folder Name="/Configuration Files/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+  </Folder>
+  <Folder Name="/Documents/">
+    <File Path="LICENSE" />
+  </Folder>
+  <Folder Name="/Targets/" />
+</Solution>
