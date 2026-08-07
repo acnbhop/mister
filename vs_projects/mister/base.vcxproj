@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="..\..\src\mister\base\temp.cc" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\mister\base\forceinclude.hh" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -131,6 +134,7 @@
       <AdditionalIncludeDirectories>$(SolutionDir)src\</AdditionalIncludeDirectories>
       <TreatWarningAsError>true</TreatWarningAsError>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <ForcedIncludeFiles>$(SolutionDir)src\mister\base\forceinclude.hh</ForcedIncludeFiles>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -158,6 +162,7 @@
       <AdditionalIncludeDirectories>$(SolutionDir)src\</AdditionalIncludeDirectories>
       <TreatWarningAsError>true</TreatWarningAsError>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <ForcedIncludeFiles>$(SolutionDir)src\mister\base\forceinclude.hh</ForcedIncludeFiles>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

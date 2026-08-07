@@ -3,4 +3,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\src\mister\base\temp.cc" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\mister\base\forceinclude.hh" />
+  </ItemGroup>
 </Project>
