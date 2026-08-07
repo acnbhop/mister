@@ -10,6 +10,9 @@
 !*.gitignore
 !*.gitattributes
 
+# Config files
+!*.editorconfig
+
 # Text files
 !*.txt
 !*.md
