@@ -10,7 +10,10 @@
   <Folder Name="/Documents/">
     <File Path="LICENSE" />
   </Folder>
-  <Folder Name="/Targets/">
+  <Folder Name="/Targets/" />
+  <Folder Name="/Targets/Game Targets/" />
+  <Folder Name="/Targets/Mister Targets/" />
+  <Folder Name="/Targets/Test Targets/">
     <Project Path="src/testapp/testapp.vcxproj" Id="236ab8e5-f5d8-4aa7-b68c-69998153900e" />
   </Folder>
 </Solution>
