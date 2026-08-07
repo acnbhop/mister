@@ -1,4 +1,8 @@
 <Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
   <Folder Name="/Configuration Files/">
     <File Path=".editorconfig" />
     <File Path=".gitignore" />
@@ -6,5 +10,7 @@
   <Folder Name="/Documents/">
     <File Path="LICENSE" />
   </Folder>
-  <Folder Name="/Targets/" />
+  <Folder Name="/Targets/">
+    <Project Path="src/testapp/testapp.vcxproj" />
+  </Folder>
 </Solution>
