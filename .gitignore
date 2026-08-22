@@ -12,6 +12,7 @@
 
 # Folder shenanigans
 /bin
+/build
 /temp
 src/*
 !src/**/*.cc
