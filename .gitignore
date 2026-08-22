@@ -1,0 +1,26 @@
+*.vs
+*.suo
+*.ncb
+*.vcxproj.user
+*.vscode
+*.DS_Store
+*[Tt]humbs.db
+*[Dd]esktop.ini
+
+# VS
+*[Xx]64/
+
+# Folder shenanigans
+/bin
+/temp
+src/*
+!src/**/*.cc
+!src/**/*.hh
+!src/**/*.h
+!src/**/*.c
+!src/**/*.cpp
+!src/**/*.hpp
+!src/**/*.hxx
+!src/**/*.inl
+!src/**/*.md
+!src/**/*.txt
